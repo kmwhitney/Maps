@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="150" height="12" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="Slum" tilewidth="32" tileheight="32">
+  <image source="Slum.png" trans="ff00ff" width="953" height="394"/>
+ </tileset>
+ <layer name="Floor" width="150" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztzVlbjgEUhtHvk2iUihQhaTBPIYQUKhWVVIqfbCwqKUIUGaNUhqwf4ezd97XXyT55UqkoiqIoiqIoiqIoiqL/0z3u84CHPOIxw4zwhKeMMsY4z5jgOZNM8YKXTPOK17xhhre8Y5a52EzE5ns+MM9HPvGZL3zlGwt85weLLPGTZVZY5Re/+cNf1kilHevIYD2Z6dhMwuYG/41kkU0OueSRzyYK2EwhRRSzha2UsI1SytjODsrZyS52U8EeKtOxmYTNvVRRTQ217GM/BzjIIQ5zhKMc4zgnqOMkpzhNPWc4yzkaOM8FLtIYm4nYvEQTzVzmCldpoZU2rtFOB51c5wZddNPDTXq5RR/9DHCbQYa4w93YTMTmP24DSVw=
+  </data>
+ </layer>
+ <layer name="Wall" width="150" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztzeOWlgEYQNFvck22bds12bZtG5Nt25xs25jqptqX0ep9zlr790lLpVI5yEkucpOHvOQjPwVIpyCFKEwRilKM4pSgJKUoTRnKUo7yVKAilUiL53//rEwVqlKN6tSgJrWoTR3qUo/6NKAhjWhME5rSjOa0oCWtaE0b2tKO9vFMxLMDHelEZzLoQle60Z0e9KQXvelDX/rRnwEMZBCDGcJQhjGcEYxkFKPjmYjnGMYyjvFMYCKTmMwUpjKN6cxgJrOYzRzmMo/5LGAhi1jMEpayjOWsiGcinitZxWrWsJZM1rGeDWxkE5vZwla2sZ0d7GQXu9nDXvaxnwMc5BCHORLPRDyPcozjnOAkpzjNGc5yjvNc4CKXuMwVrnKN62Rxg5vc4jZ3uMs97vMgnol4PuQRj3nCU57xnBe85BWvecNb3vGeD3zkE5/5wle+8Z0f/CSbX/zmTzwT8YyiKIqiKIqi6N/vLzwzoMg=
+  </data>
+ </layer>
+</map>

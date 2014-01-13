@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="150" height="12" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="RVpark" tilewidth="32" tileheight="32">
+  <image source="RVpark.png" trans="ff00ff" width="946" height="384"/>
+ </tileset>
+ <layer name="Wall" width="150" height="12" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJzt0WlTzWEcx+HzSrJTUtaKQupYQvYtKUvZyk6ylV3WULZQiKzRa3Q9OGbOGA0PnP+D+n1nrrkffua+77xUKjWBiUxiMlOYyjSmM4N8CphJIbMoopjZzGEu85jPAkoopYyFLKKcvGiO+WYFi1nCUipZniWdOVewklXUsJo1rKWWdaxnAxvZxGa2sJVtbGfHH5q1GcuoTqhZmelVJdysznTTCd8znXCzjp3Us4sGGrPsZR9NNLOfAxzkEIdpoZUjHOUYxznBSU5xmjO0/aW5J+Hm7hw223LYrM96s39921z8Z90ozbO0c47zXOAil+igk8tc4SrXuM4NbnKLLm5zh7vc4z4P6OYhj3hMzzhq9oyDe/7q/d7s5QlPecZzXtDHS17xmn4GeMNb3jHIez4wxEc+8ZkvfOUbw3znByPRHFPN3lGasVgsFovFYrFYLBaLxWL/az8B1qkpgA==
+  </data>
+ </layer>
+ <layer name="Floor" width="150" height="12">
+  <data encoding="base64" compression="zlib">
+   eJzt0tVSVmEYhuEfVEzETlTs7gRR7Aa7PUe7MVFUsLuxWwxQQES8DmJtLGbeZ75r+37XzMpkYrFYLBaLxWKxWNq3j/0c4CCHOMwRjnKM45zgJOWc4jRnOMs5zlPBBS5SySUuc4UqqtkbzdQ2k7z5Gte5wU1ucZs73OUe93nAQx7xmCc85RnPqeEFL3nFa97wlne85wNXo5naZpI3f+IzX/hKLd/4zg9+Ukc9v/hNA4008Ydm/tLCP1rJZHlk0472dOBjNFPbTPLmju7pRGe60JVu5NKdPHrQk170pg996Ud/BjCQQQwmnyEMZRgFDGcEOVnRTGszyZtHMZoxjGUc45nARCYxmSlMZRrTmcFMZjGbOcxlHoUUMZ9iFrCQEkZGM7XNJG9ezBKWsozlrGAlq1jNGtayjlLKWM8GNrKJzWxhK9vYzg52sovd7GFRNFPbTPLmtvbt0Wwb/9V/Dcjoew==
+  </data>
+ </layer>
+</map>
